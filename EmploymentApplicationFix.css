@@ -1,0 +1,229 @@
+/* Employment Application Form */
+
+#gform_17 {
+	font-weight: bold;
+}
+
+/*Page 1*/
+#input_17_1, #input_17_2,
+#input_17_3 {
+	display: flex;
+}
+
+#input_17_1_3_container, #input_17_1_6_container,
+#input_17_2_1_container,
+#input_17_2_2_container,
+#input_17_2_3_container,
+.gchoice_17_3_0, .gchoice_17_3_1,
+.gchoice_17_3_2, .gchoice_17_3_3 {
+	flex: 1;
+	margin: 5px;
+}
+
+#field_17_1, #field_17_2,
+#field_17_3, #field_17_4,
+#field_17_5, #field_17_138 {
+	margin: 50px 0px;
+}
+
+/*Page 2*/
+#input_17_8, #input_17_9,
+#input_17_12, #input_17_14,
+#input_17_16, #input_17_17,
+#input_17_18, #input_17_20,
+#input_17_21, #input_17_22 {
+	display: flex;
+}
+
+#input_17_8_3_container,
+#input_17_8_6_container,
+#input_17_9_4_container,
+#input_17_9_8_container,
+.gchoice_17_12_0, .gchoice_17_12_1,
+.gchoice_17_12_2, .gchoice_17_14_0,
+.gchoice_17_14_1, .gchoice_17_14_2,
+.gchoice_17_16_0, .gchoice_17_16_1,
+#input_17_17_1_container,
+#input_17_17_2_container,
+#input_17_17_3_container,
+.gchoice_17_18_0, .gchoice_17_18_1,
+#input_17_20_1_container,
+#input_17_20_2_container,
+#input_17_20_3_container,
+.gchoice_17_21_0, .gchoice_17_21_1,
+.gchoice_17_22_0, .gchoice_17_22_1 {
+	flex: 1;
+	margin: 5px;
+}
+
+#input_17_145_3_container,
+#input_17_145_4_container, 
+#input_17_145_5_container {
+	display: inline-block;
+	margin: 5px;
+}
+
+#field_17_8, #field_17_145,
+#field_17_13, #field_17_11 {
+	margin-top: 50px;
+}
+
+#field_17_9, #field_17_12,
+#field_17_139, #field_17_14,
+#field_17_140 {
+	margin-bottom: 50px;
+}
+
+#field_17_145, #field_17_15,
+#field_17_16, #field_17_17,
+#field_17_18, #field_17_20,
+#field_17_21, #field_17_22,
+#field_17_24 {
+	margin: 50px 0px;
+}
+
+/*Page 3*/
+#field_17_148, #field_17_29,
+#field_17_50, #field_17_66 {
+	margin-top: 50px;
+}
+
+#field_17_149, #field_17_150 {
+	margin-top: 150px;
+}
+
+#field_17_27, #field_17_30,
+#field_17_43, #field_17_51,
+#field_17_64, #field_17_67 {
+	margin-bottom: 50px;
+}
+
+#input_17_29, #input_17_30,
+#input_17_39, #input_17_40,
+#input_17_50, #input_17_51,
+#input_17_59, #input_17_60,
+#input_17_66, #input_17_67,
+#input_17_75, #input_17_76 {
+	display: flex;
+}
+
+#input_17_29_1_container,
+#input_17_29_2_container,
+#input_17_29_3_container,
+#input_17_30_1_container,
+#input_17_30_2_container,
+#input_17_30_3_container,
+.gchoice_17_39_0, .gchoice_17_39_1,
+#input_17_40_3_container,
+#input_17_40_6_container,
+#input_17_50_1_container,
+#input_17_50_2_container,
+#input_17_50_3_container,
+#input_17_51_1_container,
+#input_17_51_2_container,
+#input_17_51_3_container,
+.gchoice_17_59_0, .gchoice_17_59_1,
+#input_17_60_3_container,
+#input_17_60_6_container,
+#input_17_66_1_container,
+#input_17_66_2_container, 
+#input_17_66_3_container,
+#input_17_67_1_container,
+#input_17_67_2_container, 
+#input_17_67_3_container,
+.gchoice_17_75_0, .gchoice_17_75_1,
+#input_17_76_3_container,
+#input_17_76_6_container {
+	flex: 1;
+	margin: 5px;
+}
+
+#input_17_144_3_container,
+#input_17_144_4_container,
+#input_17_144_5_container,
+#input_17_146_3_container,
+#input_17_146_4_container,
+#input_17_146_5_container,
+#input_17_147_3_container, 
+#input_17_147_4_container, 
+#input_17_147_5_container {
+	display: inline-block;
+	margin: 5px;
+}
+
+#field_17_144, #field_17_32,
+#field_17_33, #field_17_35,
+#field_17_36, #field_17_37,
+#field_17_38, #field_17_39,
+#field_17_40, #field_17_41,
+#field_17_42, #field_17_49, #field_17_146, #field_17_53, #field_17_54, #field_17_55, #field_17_56, #field_17_57, #field_17_58, #field_17_59, #field_17_60, #field_17_61, #field_17_62, #field_17_65,
+#field_17_147, #field_17_69,
+#field_17_70, #field_17_71,
+#field_17_72, #field_17_73,
+#field_17_74, #field_17_75,
+#field_17_76, #field_17_77,
+#field_17_78, #field_17_28 {
+	margin: 50px 0px;
+}
+
+/*Page 4*/
+#input_17_82_3_container,
+#input_17_82_4_container,
+#input_17_87_3_container,
+#input_17_87_4_container,
+#input_17_93_3_container,
+#input_17_93_4_container,
+#input_17_98_3_container,
+#input_17_98_4_container,
+#input_17_103_3_container,
+#input_17_103_4_container {
+	display: inline-block;
+	margin: 5px;
+}
+
+#input_17_84, #input_17_88,
+#input_17_94, #input_17_99,
+#input_17_104 {
+	display: flex;
+}
+
+.gchoice_17_84_0, .gchoice_17_84_1,
+.gchoice_17_88_0, .gchoice_17_88_1,
+.gchoice_17_94_0, .gchoice_17_94_1,
+.gchoice_17_99_0, .gchoice_17_99_1,
+.gchoice_17_104_0, .gchoice_17_104_1 {
+	flex: 1;
+	margin: 5px;
+}
+
+#field_17_81, #field_17_86,
+#field_17_91, #field_17_97,
+#field_17_102 {
+	margin-bottom: 50px;
+}
+
+#field_17_86, #field_17_91,
+#field_17_97, #field_17_102 {
+	margin-bottom: 50px;
+	margin-top: 100px;
+}
+
+#field_17_82, #field_17_84,
+#field_17_85, #field_17_87,
+#field_17_88, #field_17_89,
+#field_17_90, #field_17_93,
+#field_17_94, #field_17_95,
+#field_17_96, #field_17_98,
+#field_17_99, #field_17_100,
+#field_17_101, #field_17_103,
+#field_17_104, #field_17_105,
+#field_17_106 {
+	margin: 50px 0px;
+}
+
+/*Page 5*/
+#field_17_129 {
+	margin: 50px 0px;
+}
+
+/*Page 6*/
