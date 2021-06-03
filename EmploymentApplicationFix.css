@@ -26,6 +26,11 @@
 	margin: 50px 0px;
 }
 
+#input_17_1_3, #input_17_1_6,
+#input_17_3 {
+	border: 1px solid;
+}
+
 /*Page 2*/
 #input_17_8, #input_17_9,
 #input_17_12, #input_17_14,
@@ -80,6 +85,19 @@
 #field_17_21, #field_17_22,
 #field_17_24 {
 	margin: 50px 0px;
+}
+
+#input_17_8_3, #input_17_8_6,
+#input_17_9_4, #input_17_9_8,
+#input_17_145_1, #input_17_145_3,
+#input_17_145_4, #input_17_145_5,
+#input_17_11, #input_17_12,
+#input_17_13, #input_17_14,
+#input_17_15, #input_17_16,
+#input_17_139, #input_17_140,
+#input_17_18, #input_17_21,
+#input_17_22 {
+	border: 1px solid;
 }
 
 /*Page 3*/
@@ -166,6 +184,35 @@
 	margin: 50px 0px;
 }
 
+#input_17_27, #input_17_28,
+#input_17_144_1, #input_17_144_3,
+#input_17_144_4, #input_17_144_5,
+#input_17_32, #input_17_33,
+#input_17_35, #input_17_36,
+#input_17_37, #input_17_38,
+#input_17_39, #input_17_40_3,
+#input_17_40_6, #input_17_41,
+#input_17_42, #input_17_43,
+#input_17_49, #input_17_146_1,
+#input_17_146_3, #input_17_146_4,
+#input_17_146_5, #input_17_53,
+#input_17_54, #input_17_55,
+#input_17_56, #input_17_57,
+#input_17_58, #input_17_59,
+#input_17_60_3, #input_17_60_6,
+#input_17_61, #input_17_62,
+#input_17_64, #input_17_65,
+#input_17_147_1, #input_17_147_3,
+#input_17_147_4, #input_17_147_5,
+#input_17_69, #input_17_70,
+#input_17_71, #input_17_72,
+#input_17_73, #input_17_74,
+#input_17_75, #input_17_76_3,
+#input_17_76_6, #input_17_77,
+#input_17_78 {
+	border: 1px solid;
+}
+
 /*Page 4*/
 #input_17_82_3_container,
 #input_17_82_4_container,
@@ -219,6 +266,24 @@
 	margin: 50px 0px;
 }
 
+#input_17_81, #input_17_82_3,
+#input_17_82_4, #input_17_84,
+#input_17_85, #input_17_86,
+#input_17_87_3, #input_17_87_4,
+#input_17_88, #input_17_89,
+#input_17_90, #input_17_91,
+#input_17_93_3, #input_17_93_4,
+#input_17_94, #input_17_95, 
+#input_17_96, #input_17_97,
+#input_17_98_3, #input_17_98_4,
+#input_17_99, #input_17_100,
+#input_17_101, #input_17_102,
+#input_17_103_3, #input_17_103_4,
+#input_17_104, #input_17_105,
+#input_17_106 {
+	border: 1px solid;
+}
+
 /*Page 5*/
 #field_17_129 {
 	margin: 50px 0px;
@@ -263,6 +328,15 @@
 	margin-bottom: 50px;
 }
 
+#input_17_113_3, #input_17_113_6,
+#input_17_114, #input_17_115,
+#input_17_117_3, #input_17_117_6,
+#input_17_118, #input_17_119,
+#input_17_121_3, #input_17_121_6,
+#input_17_122, #input_17_123 {
+	border: 1px solid;
+}
+
 /*Page 7*/
 #field_17_130, #field_17_131,
 #field_17_128 {
@@ -280,8 +354,12 @@
 	margin: 5px;
 }
 
+#input_17_130 {
+	border: 1px solid;
+}
+
 #gform_submit_button_17 {
-	border-style: solid;
+	border: 2px solid;
 }
 
 #field_17_160 {
