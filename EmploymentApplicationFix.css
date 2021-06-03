@@ -156,13 +156,7 @@
 #field_17_36, #field_17_37,
 #field_17_38, #field_17_39,
 #field_17_40, #field_17_41,
-#field_17_42, #field_17_49, 
-#field_17_146, #field_17_53, 
-#field_17_54, #field_17_55, 
-#field_17_56, #field_17_57, 
-#field_17_58, #field_17_59, 
-#field_17_60, #field_17_61, 
-#field_17_62, #field_17_65,
+#field_17_42, #field_17_49, #field_17_146, #field_17_53, #field_17_54, #field_17_55, #field_17_56, #field_17_57, #field_17_58, #field_17_59, #field_17_60, #field_17_61, #field_17_62, #field_17_65,
 #field_17_147, #field_17_69,
 #field_17_70, #field_17_71,
 #field_17_72, #field_17_73,
@@ -202,9 +196,7 @@
 	margin: 5px;
 }
 
-#field_17_81, #field_17_86,
-#field_17_91, #field_17_97,
-#field_17_102 {
+#field_17_81 {
 	margin-bottom: 50px;
 }
 
