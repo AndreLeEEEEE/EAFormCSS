@@ -27,7 +27,8 @@
 }
 
 #input_17_1_3, #input_17_1_6,
-#input_17_3 {
+#input_17_3, #input_17_4,
+#input_17_5, #input_17_138 {
 	border: 1px solid;
 }
 
@@ -333,7 +334,9 @@
 #input_17_117_3, #input_17_117_6,
 #input_17_118, #input_17_119,
 #input_17_121_3, #input_17_121_6,
-#input_17_122, #input_17_123 {
+#input_17_122, #input_17_123,
+#input_17_141, #input_17_142,
+#input_17_143 {
 	border: 1px solid;
 }
 
